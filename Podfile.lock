@@ -1,0 +1,16 @@
+PODS:
+  - MagicalRecord (2.3.0)
+  - Masonry (0.6.2)
+  - MMProgressHUD (0.3.1)
+
+DEPENDENCIES:
+  - MagicalRecord (~> 2.3.0)
+  - Masonry (~> 0.6.2)
+  - MMProgressHUD (~> 0.3.1)
+
+SPEC CHECKSUMS:
+  MagicalRecord: 89eb7d7ead39fb37f01c3d010665ee94d17f8dba
+  Masonry: 362e8a1cc0beada4a4c4832d5e863da2a51533be
+  MMProgressHUD: dac2655d62d28e7d6dc28bf72d9531a4d4c62459
+
+COCOAPODS: 0.36.0
